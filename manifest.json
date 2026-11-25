@@ -1,0 +1,19 @@
+{
+  "id": "https://www.carloshamilton.blog.br/",
+  "name": "Pastor Carlos Hamilton",
+  "short_name": "Carlos Hamilton",
+  "description": "Site oficial do Pastor Carlos Hamilton",
+  "lang": "pt-BR",
+  "start_url": "https://www.carloshamilton.blog.br/",
+  "scope": "https://www.carloshamilton.blog.br/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZXPorPL-wh4_KyLYb7h9V5T30i1IJKoOfm-AVq3ucSVeqVEGMZBeYzic4qHr4LoTfy0H2rz44wvqHIr4xYMQ0d6glQooEx_h6v0rJ0t4PnoahJCur4vNYuy-yI58mW7zWdS5ob-I6WqMyeq_ycApYjkeLSGBHI-HEFitTqt0-wY7Sdhoxcj_WER2Adw/s1672/Carlos%20Hamilton_%20Comunica%C3%A7%C3%A3o%20Crist%C3%A3.png"
+    }
+  ]
+}
+
